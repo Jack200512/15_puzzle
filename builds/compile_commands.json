@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Jack_s_file/code/cpp/thefirstgame/builds",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\game.dir\\board.cpp.obj -c D:\\Jack_s_file\\code\\cpp\\thefirstgame\\board.cpp",
+  "file": "D:/Jack_s_file/code/cpp/thefirstgame/board.cpp",
+  "output": "CMakeFiles/game.dir/board.cpp.obj"
+},
+{
+  "directory": "D:/Jack_s_file/code/cpp/thefirstgame/builds",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\game.dir\\main.cpp.obj -c D:\\Jack_s_file\\code\\cpp\\thefirstgame\\main.cpp",
+  "file": "D:/Jack_s_file/code/cpp/thefirstgame/main.cpp",
+  "output": "CMakeFiles/game.dir/main.cpp.obj"
+}
+]

@@ -1,0 +1,15 @@
+{
+    "editor.fontSize": 16,
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "array": "cpp"
+    },
+    "remote.SSH.useLocalServer": true,
+    "cmake.sourceDirectory": "${workspaceFolder}",
+    "cmake.options.statusBarVisibility": "visible",
+    "cmake.buildDirectory": "${workspaceFolder}\\builds",
+    "C_Cpp.default.compilerPath": "C:/Program Files/mingw64/bin/g++.exe",
+
+    "editor.autoClosingBrackets": "always"
+}
