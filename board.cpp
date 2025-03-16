@@ -200,7 +200,7 @@ void board::writebypair(pair<int, int> writepos, int value, vector<vector<int>> 
 
 void board::suffle()
 {
-    int step = 1000;
+    int step = 10000;
 
     // evaluate the ava number through the postition of empty square
 
